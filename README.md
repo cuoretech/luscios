@@ -1,12 +1,14 @@
 ![alt text](http://cuore.io/img/front/OS-logo-slide.png "Cuore lusciOS Logo")
 
 Cuore lusciOS
-=======
+===========
 
 ###The first completely client-based Operating System
 
 lusciOS is a Client-Based Operating System which uses a custom Virtual Desktop Agent and ALAN's Virtual Shared Graphics Acceleration to serve and entire operating instance to the client-based operating system. The lusciOS operating system runs a single operating instance for all parellel devices seamlessly. lusciOS is built on top of the Ubuntu Touch operating system, compatible on for all computing devices which can run the Ubuntu Operating System.
+
 -----------------------
+
 #####[Mobile Devices Compatibility](https://wiki.ubuntu.com/Touch/Devices)
 #####[Computer Compatibility](http://www.ubuntu.com/certification/desktop)
 
